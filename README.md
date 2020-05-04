@@ -25,5 +25,5 @@ This application allows you as the user to view and create your very own pitch.T
 For ways on how to improve the app contact via jeromemberia@gmail.com.
 
 ### License
-[MIT Licencse]{}
+[MIT Licencse]{https://github.com/JeromeMberia/the._pitch/blob/master/LICENSE}
 Copyright (c) 2020 JeromeMberia
