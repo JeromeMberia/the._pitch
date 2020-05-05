@@ -8,7 +8,7 @@
 This application allows you as the user to view and create your very own pitch.The function you have to try it yourself.
 
 ## Setup/Installation Requirements
-* $ git clone <the repositories url>
+* $ git clone <the url>
 * $ cd the._pitch
 * $ . virtual/bin/activate
 
