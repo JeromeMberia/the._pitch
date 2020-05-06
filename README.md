@@ -2,7 +2,7 @@
 
 #### This application allows you as the user to view and create your very own pitch.
 
-#### By Jerome Mberia(https://github.com/JeromeMberia)
+#### By [Jerome Mberia](https://github.com/JeromeMberia)
 
 ## Description
 This application allows you as the user to view and create your very own pitch.The function you have to try it yourself.
