@@ -13,7 +13,7 @@ This application allows you as the user to view and create your very own pitch.T
 * $ . virtual/bin/activate
 
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+
 
 ## Technologies Used
 * HTML&CSS
@@ -25,5 +25,5 @@ This application allows you as the user to view and create your very own pitch.T
 For ways on how to improve the app contact via jeromemberia@gmail.com.
 
 ### License
-[MIT Licencse]{https://github.com/JeromeMberia/the._pitch/blob/master/LICENSE}
-Copyright (c) 2020 JeromeMberia
+[MIT Licence]{https://github.com/JeromeMberia/the._pitch/blob/master/LICENSE}
+Copyright (c) 2020 Jerome Mberia
