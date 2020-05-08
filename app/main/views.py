@@ -18,7 +18,7 @@ def home():
     '''
     function that returns root.html page and its content
     '''
-    title = 'Home'
+    title = 'Home' 
     return render_template('root.html', title = title)
 
 @main.route('/pitch/<cat>')
