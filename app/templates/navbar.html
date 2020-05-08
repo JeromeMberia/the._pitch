@@ -1,4 +1,4 @@
-<header class="site-header">
+<div class="row">
   <nav class="navbar navbar-expand-md navbar-dark bg-steel fixed-top">
     <div class="container">
       <a class="navbar-brand mr-4" href="/">the._pitch</a>
@@ -28,15 +28,15 @@
         <!-- Navbar Right Side -->
         <div class="navbar-nav">
           {% if current_user.is_authenticated %}
-            <a class="nav-item nav-link" href="{{ url_for('posts.new_post') }}">New Post</a>
+            <a class="nav-item nav-link" href="{{ url_for('main.home') }}">New Post</a>
             <a class="nav-item nav-link" href="{{ url_for('auth.account') }}">Account</a>
             <a class="nav-item nav-link" href="{{url_for('auth.logout')}}">Logout</a>
           {% else %}
             <a class="nav-item nav-link" href="{{url_for('auth.login')}}">Login</a>
-            <a class="nav-item nav-link" href="{{ url_for('users.register') }}">Register</a>
+            <a class="nav-item nav-link" href="{{ url_for('auth.register') }}">Register</a>
           {% endif %}
         </div>
       </div>
     </div>
   </nav>
-</header>
+</div>
