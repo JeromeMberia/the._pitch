@@ -32,7 +32,10 @@ def register():
 
     return render_template('index.html',registration_form = form)
 
+@auth.route('/account')
+def account():
 
+    return render_template('profile.html')
 @auth.route('/logout')
 @login_required
 def logout():
