@@ -13,6 +13,8 @@ This application allows you as the user to view and create your very own pitch.T
 * $ . virtual/bin/activate
 
 ## Known Bugs
+*you cannot vote
+*you can neither register nor log in 
 
 
 ## Technologies Used
