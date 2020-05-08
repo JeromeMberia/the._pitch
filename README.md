@@ -2,7 +2,7 @@
 
 #### This application allows you as the user to view and create your very own pitch.
 
-#### By Jerome Mberia
+#### By [Jerome Mberia](https://github.com/JeromeMberia)
 
 ## Description
 This application allows you as the user to view and create your very own pitch.The function you have to try it yourself.
@@ -25,5 +25,5 @@ This application allows you as the user to view and create your very own pitch.T
 For ways on how to improve the app contact via jeromemberia@gmail.com.
 
 ### License
-[MIT Licence]{https://github.com/JeromeMberia/the._pitch/blob/master/LICENSE}
+[MIT Licence](https://github.com/JeromeMberia/the._pitch/blob/master/LICENSE)
 Copyright (c) 2020 Jerome Mberia
